@@ -1,10 +1,15 @@
 # Local-to-Telegram Upload Bot
 
-<p align = "center">
-![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![Telegram](https://img.shields.io/badge/Telegram-Bot_API-2CA5E0)
-![License](https://img.shields.io/badge/License-MIT-green)
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Supported-0078D4?style=for-the-badge\&logo=windows11\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Recommended-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Development-F7DF1E?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-2EA44F?style=for-the-badge\&logo=opensourceinitiative\&logoColor=white)
+
 </p>
 
 A simple Python automation bot that monitors a local folder and automatically uploads images and videos to a private Telegram channel.
